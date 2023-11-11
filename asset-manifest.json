@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nurarifahhikmah.github.io/static/css/main.e551a229.css",
+    "main.js": "/nurarifahhikmah.github.io/static/js/main.5a61ef61.js",
+    "index.html": "/nurarifahhikmah.github.io/index.html",
+    "main.e551a229.css.map": "/nurarifahhikmah.github.io/static/css/main.e551a229.css.map",
+    "main.5a61ef61.js.map": "/nurarifahhikmah.github.io/static/js/main.5a61ef61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e551a229.css",
+    "static/js/main.5a61ef61.js"
+  ]
+}
